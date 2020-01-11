@@ -1,0 +1,115 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+}
+
+h2, p, .readme-wrapper {
+    text-align: center;
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color:orange;
+    
+    
+}
+
+a:hover {
+    color: lightcoral;
+    font-weight: 1000;
+}
+
+span{
+    font-weight: 1000;
+    color: #553492;
+}
+
+.box {
+    margin: 1.5em;
+    padding: 1em;
+    border-style: solid;
+    border-color: #30BEBF;
+    border-width: 0.2em;
+    border-radius: 5em;
+    width: 30em;
+    display: block;
+}
+
+#box1 {
+    background-color: #FFFFF0;
+}
+
+#box2 {
+    background-color: #FAF8D9;
+    left: 40em;
+    top: .5em;
+}
+
+#box3 {
+    background-color: #F4EDCA;
+}
+
+#box4 {
+    background-color: #F1E0B6;
+}
+
+.customdiv {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: #FFC0A4;
+    position: absolute;
+    left: 5em;
+    z-index: 1;
+}
+
+h1 {
+    color: #FE7279;
+}
+
+.original{
+    color: #EE4037;
+}
+
+.additional {
+    color: #FEFEFE;
+}
+
+#one {
+    color: #E26313;
+}
+
+#two {
+    color: #E27429;
+}
+
+#three {
+    color: #D55209;
+}
+
+#four {
+    color: #C1A050;
+}
+
+#five {
+    color: #CBAB58;
+}
+
+ul {
+    color: #3B3E79;
+}
+
+.star {
+    color: #4E5180;
+}
+
+.wars {
+    color: #0C1559;
+}
+
+.list-div {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+}
